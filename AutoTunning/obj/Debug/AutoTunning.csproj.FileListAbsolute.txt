@@ -1,0 +1,11 @@
+C:\Workspace\AutoTunning\bin\Debug\AutoTunning.exe.config
+C:\Workspace\AutoTunning\bin\Debug\AutoTunning.exe
+C:\Workspace\AutoTunning\bin\Debug\AutoTunning.pdb
+C:\Workspace\AutoTunning\obj\Debug\AutoTunning.csproj.AssemblyReference.cache
+C:\Workspace\AutoTunning\obj\Debug\AutoTunning.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\AutoTunning\obj\Debug\AutoTunning.Form1.resources
+C:\Workspace\AutoTunning\obj\Debug\AutoTunning.Properties.Resources.resources
+C:\Workspace\AutoTunning\obj\Debug\AutoTunning.csproj.GenerateResource.cache
+C:\Workspace\AutoTunning\obj\Debug\AutoTunning.csproj.CoreCompileInputs.cache
+C:\Workspace\AutoTunning\obj\Debug\AutoTunning.exe
+C:\Workspace\AutoTunning\obj\Debug\AutoTunning.pdb
